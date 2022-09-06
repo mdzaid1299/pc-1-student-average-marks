@@ -6,7 +6,7 @@ public class StudentService {
 
     public static Set<Student> getAllStudentData(){
         //create six student object by calling Student class parameterized constructor
-
+Student s1 new Student("Sohan")
         //create HashSet object and add all the students object inside it
 
         //return the HashSet object
